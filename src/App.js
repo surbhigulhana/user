@@ -80,8 +80,8 @@ function App() {
         <div className="container-fluid p-0 mb-5">
     <div className=" position-relative">
     <OwlCarousel options={options}>
-  <div className="owl-carousel-item">
-     <div className="owl-carousel-item header-carousel position-relative">
+  <div className="owl-carousel-item header-carousel position-relative">
+     <div className="owl-carousel-item position-relative">
             <img className="img-fluid" src="./img/carousel-1.jpg" alt=""/>
             <div className="position-absolute top-0 start-0 w-100 h-100 d-flex align-items-center" style={{ background: 'rgba(0, 0, 0, .2)' }}>
                 <div className="container">
