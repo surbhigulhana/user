@@ -44,7 +44,7 @@ function App() {
 
     
         <nav class="navbar navbar-expand-lg bg-white navbar-light sticky-top px-4 px-lg-5 py-lg-0">
-            <a href="index.html" class="navbar-brand">
+            <a href="#" class="navbar-brand">
                 <h1 class="m-0 text-primary"><i class="fa fa-book-reader me-3"></i>Spkides</h1>
             </a>
             <button type="button" class="navbar-toggler" data-bs-toggle="collapse" data-bs-target="#navbarCollapse">
@@ -52,23 +52,23 @@ function App() {
             </button>
             <div class="collapse navbar-collapse" id="navbarCollapse">
                 <div class="navbar-nav mx-auto">
-                    <a href="index.html" class="nav-item nav-link active">Home</a>
-                    <a href="about.html" class="nav-item nav-link">About Us</a>
-                    <a href="classes.html" class="nav-item nav-link">Classes</a>
+                    <a href="#" class="nav-item nav-link active">Home</a>
+                    <a href="#" class="nav-item nav-link">About Us</a>
+                    <a href="#" class="nav-item nav-link">Classes</a>
                     <div class="nav-item dropdown">
                         <a href="#" class="nav-link dropdown-toggle" data-bs-toggle="dropdown">Pages</a>
                         <div class="dropdown-menu rounded-0 rounded-bottom border-0 shadow-sm m-0">
-                            <a href="facility.html" class="dropdown-item">School Facilities</a>
-                            <a href="team.html" class="dropdown-item">Popular Teachers</a>
-                            <a href="call-to-action.html" class="dropdown-item">Become A Teachers</a>
-                            <a href="appointment.html" class="dropdown-item">Make Appointment</a>
-                            <a href="testimonial.html" class="dropdown-item">Testimonial</a>
-                            <a href="404.html" class="dropdown-item">404 Error</a>
+                            <a href="#" class="dropdown-item">School Facilities</a>
+                            <a href="#" class="dropdown-item">Popular Teachers</a>
+                            <a href="#" class="dropdown-item">Become A Teachers</a>
+                            <a href="#" class="dropdown-item">Make Appointment</a>
+                            <a href="#" class="dropdown-item">Testimonial</a>
+                            <a href="#" class="dropdown-item">404 Error</a>
                         </div>
                     </div>
-                    <a href="contact.html" class="nav-item nav-link">Contact Us</a>
+                    <a href="#" class="nav-item nav-link">Contact Us</a>
                 </div>
-                <a href="" class="btn btn-primary rounded-pill px-3 d-none d-lg-block">Join Us<i class="fa fa-arrow-right ms-3"></i></a>
+                <a href="#" class="btn btn-primary rounded-pill px-3 d-none d-lg-block">Join Us<i class="fa fa-arrow-right ms-3"></i></a>
             </div>
         </nav>
        
@@ -89,8 +89,8 @@ function App() {
                         <div className="col-10 col-lg-8">
                             <h1 className="display-2 text-white animated slideInDown mb-4">The Best Kindergarten School For Your Child</h1>
                             <p className="fs-5 fw-medium text-white mb-4 pb-2">Vero elitr justo clita lorem. Ipsum dolor at sed stet sit diam no. Kasd rebum ipsum et diam justo clita et kasd rebum sea elitr.</p>
-                            <a href="" className="btn btn-primary rounded-pill py-sm-3 px-sm-5 me-3 animated slideInLeft">Learn More</a>
-                            <a href="" className="btn btn-dark rounded-pill py-sm-3 px-sm-5 animated slideInRight">Our Classes</a>
+                            <a href="#" className="btn btn-primary rounded-pill py-sm-3 px-sm-5 me-3 animated slideInLeft">Learn More</a>
+                            <a href="#" className="btn btn-dark rounded-pill py-sm-3 px-sm-5 animated slideInRight">Our Classes</a>
                         </div>
                     </div>
                 </div>
@@ -105,8 +105,8 @@ function App() {
                         <div className="col-10 col-lg-8">
                             <h1 className="display-2 text-white animated slideInDown mb-4">Make A Brighter Future For Your Child</h1>
                             <p className="fs-5 fw-medium text-white mb-4 pb-2">Vero elitr justo clita lorem. Ipsum dolor at sed stet sit diam no. Kasd rebum ipsum et diam justo clita et kasd rebum sea elitr.</p>
-                            <a href="" className="btn btn-primary rounded-pill py-sm-3 px-sm-5 me-3 animated slideInLeft">Learn More</a>
-                            <a href="" className="btn btn-dark rounded-pill py-sm-3 px-sm-5 animated slideInRight">Our Classes</a>
+                            <a href="#" className="btn btn-primary rounded-pill py-sm-3 px-sm-5 me-3 animated slideInLeft">Learn More</a>
+                            <a href="#" className="btn btn-dark rounded-pill py-sm-3 px-sm-5 animated slideInRight">Our Classes</a>
                         </div>
                     </div>
                 </div>
@@ -194,7 +194,7 @@ function App() {
                         <p class="mb-4">Stet no et lorem dolor et diam, amet duo ut dolore vero eos. No stet est diam rebum amet diam ipsum. Clita clita labore, dolor duo nonumy clita sit at, sed sit sanctus dolor eos, ipsum labore duo duo sit no sea diam. Et dolor et kasd ea. Eirmod diam at dolor est vero nonumy magna.</p>
                         <div class="row g-4 align-items-center">
                             <div class="col-sm-6">
-                                <a class="btn btn-primary rounded-pill py-3 px-5" href="">Read More</a>
+                                <a class="btn btn-primary rounded-pill py-3 px-5" href="#">Read More</a>
                             </div>
                             <div class="col-sm-6">
                                 <div class="d-flex align-items-center">
@@ -242,7 +242,7 @@ function App() {
                                 <p class="mb-4">Tempor erat elitr rebum at clita. Diam dolor diam ipsum sit. Aliqu diam amet diam et eos.
                                     Clita erat ipsum et lorem et sit, sed stet lorem sit clita duo justo magna dolore erat amet
                                 </p>
-                                <a class="btn btn-primary py-3 px-5" href="">Get Started Now<i class="fa fa-arrow-right ms-2"></i></a>
+                                <a class="btn btn-primary py-3 px-5" href="#">Get Started Now<i class="fa fa-arrow-right ms-2"></i></a>
                             </div>
                         </div>
                     </div>
@@ -266,7 +266,7 @@ function App() {
                                 <img class="img-fluid rounded-circle" src="./img/classes-1.jpg" alt=""/>
                             </div>
                             <div class="bg-light rounded p-4 pt-5 mt-n5">
-                                <a class="d-block text-center h3 mt-3 mb-4" href="">Art & Drawing</a>
+                                <a class="d-block text-center h3 mt-3 mb-4" href="#">Art & Drawing</a>
                                 <div class="d-flex align-items-center justify-content-between mb-4">
                                     <div class="d-flex align-items-center">
                                         <img class="rounded-circle flex-shrink-0" src="./img/user.jpg" alt="" style={{ width: '45px', height: '45px' }}/>
@@ -275,7 +275,7 @@ function App() {
                                             <small>Teacher</small>
                                         </div>
                                     </div>
-                                    <span class="bg-primary text-white rounded-pill py-2 px-3" href="">$99</span>
+                                    <span class="bg-primary text-white rounded-pill py-2 px-3" href="#">$99</span>
                                 </div>
                                 <div class="row g-1">
                                     <div class="col-4">
@@ -306,7 +306,7 @@ function App() {
                                 <img class="img-fluid rounded-circle" src="./img/classes-2.jpg" alt=""/>
                             </div>
                             <div class="bg-light rounded p-4 pt-5 mt-n5">
-                                <a class="d-block text-center h3 mt-3 mb-4" href="">Color Management</a>
+                                <a class="d-block text-center h3 mt-3 mb-4" href="#">Color Management</a>
                                 <div class="d-flex align-items-center justify-content-between mb-4">
                                     <div class="d-flex align-items-center">
                                         <img class="rounded-circle flex-shrink-0" src="./img/user.jpg" alt="" style={{ width: '45px', height: '45px' }}/>
@@ -315,7 +315,7 @@ function App() {
                                             <small>Teacher</small>
                                         </div>
                                     </div>
-                                    <span class="bg-primary text-white rounded-pill py-2 px-3" href="">$99</span>
+                                    <span class="bg-primary text-white rounded-pill py-2 px-3" href="#">$99</span>
                                 </div>
                                 <div class="row g-1">
                                     <div class="col-4">
@@ -346,7 +346,7 @@ function App() {
                                 <img class="img-fluid rounded-circle" src="./img/classes-3.jpg" alt=""/>
                             </div>
                             <div class="bg-light rounded p-4 pt-5 mt-n5">
-                                <a class="d-block text-center h3 mt-3 mb-4" href="">Athletic & Dance</a>
+                                <a class="d-block text-center h3 mt-3 mb-4" href="#">Athletic & Dance</a>
                                 <div class="d-flex align-items-center justify-content-between mb-4">
                                     <div class="d-flex align-items-center">
                                         <img class="rounded-circle flex-shrink-0" src="./img/user.jpg" alt="" style={{ width: '45px', height: '45px' }}/>
@@ -355,7 +355,7 @@ function App() {
                                             <small>Teacher</small>
                                         </div>
                                     </div>
-                                    <span class="bg-primary text-white rounded-pill py-2 px-3" href="">$99</span>
+                                    <span class="bg-primary text-white rounded-pill py-2 px-3" href="#">$99</span>
                                 </div>
                                 <div class="row g-1">
                                     <div class="col-4">
@@ -386,7 +386,7 @@ function App() {
                                 <img class="img-fluid rounded-circle" src="./img/classes-4.jpg" alt=""/>
                             </div>
                             <div class="bg-light rounded p-4 pt-5 mt-n5">
-                                <a class="d-block text-center h3 mt-3 mb-4" href="">Language & Speaking</a>
+                                <a class="d-block text-center h3 mt-3 mb-4" href="#">Language & Speaking</a>
                                 <div class="d-flex align-items-center justify-content-between mb-4">
                                     <div class="d-flex align-items-center">
                                         <img class="rounded-circle flex-shrink-0" src="./img/user.jpg" alt="" style={{ width: '45px', height: '45px' }}/>
@@ -395,7 +395,7 @@ function App() {
                                             <small>Teacher</small>
                                         </div>
                                     </div>
-                                    <span class="bg-primary text-white rounded-pill py-2 px-3" href="">$99</span>
+                                    <span class="bg-primary text-white rounded-pill py-2 px-3" href="#">$99</span>
                                 </div>
                                 <div class="row g-1">
                                     <div class="col-4">
@@ -426,7 +426,7 @@ function App() {
                                 <img class="img-fluid rounded-circle" src="./img/classes-5.jpg" alt=""/>
                             </div>
                             <div class="bg-light rounded p-4 pt-5 mt-n5">
-                                <a class="d-block text-center h3 mt-3 mb-4" href="">Religion & History</a>
+                                <a class="d-block text-center h3 mt-3 mb-4" href="#">Religion & History</a>
                                 <div class="d-flex align-items-center justify-content-between mb-4">
                                     <div class="d-flex align-items-center">
                                         <img class="rounded-circle flex-shrink-0" src="./img/user.jpg" alt="" style={{ width: '45px', height: '45px' }}/>
@@ -435,7 +435,7 @@ function App() {
                                             <small>Teacher</small>
                                         </div>
                                     </div>
-                                    <span class="bg-primary text-white rounded-pill py-2 px-3" href="">$99</span>
+                                    <span class="bg-primary text-white rounded-pill py-2 px-3" href="#">$99</span>
                                 </div>
                                 <div class="row g-1">
                                     <div class="col-4">
@@ -466,7 +466,7 @@ function App() {
                                 <img class="img-fluid rounded-circle" src="./img/classes-6.jpg" alt=""/>
                             </div>
                             <div class="bg-light rounded p-4 pt-5 mt-n5">
-                                <a class="d-block text-center h3 mt-3 mb-4" href="">General Knowledge</a>
+                                <a class="d-block text-center h3 mt-3 mb-4" href="#">General Knowledge</a>
                                 <div class="d-flex align-items-center justify-content-between mb-4">
                                     <div class="d-flex align-items-center">
                                         <img class="rounded-circle flex-shrink-0" src="./img/user.jpg" alt="" style={{ width: '45px', height: '45px' }}/>
@@ -475,7 +475,7 @@ function App() {
                                             <small>Teacher</small>
                                         </div>
                                     </div>
-                                    <span class="bg-primary text-white rounded-pill py-2 px-3" href="">$99</span>
+                                    <span class="bg-primary text-white rounded-pill py-2 px-3" href="#">$99</span>
                                 </div>
                                 <div class="row g-1">
                                     <div class="col-4">
@@ -580,9 +580,9 @@ function App() {
                                 <h3>Full Name</h3>
                                 <p>Designation</p>
                                 <div class="d-flex align-items-center">
-                                    <a class="btn btn-square btn-primary mx-1" href=""><i class="fab fa-facebook-f"></i></a>
-                                    <a class="btn btn-square btn-primary  mx-1" href=""><i class="fab fa-twitter"></i></a>
-                                    <a class="btn btn-square btn-primary  mx-1" href=""><i class="fab fa-instagram"></i></a>
+                                    <a class="btn btn-square btn-primary mx-1" href="#"><i class="fab fa-facebook-f"></i></a>
+                                    <a class="btn btn-square btn-primary  mx-1" href="#"><i class="fab fa-twitter"></i></a>
+                                    <a class="btn btn-square btn-primary  mx-1" href="#"><i class="fab fa-instagram"></i></a>
                                 </div>
                             </div>
                         </div>
@@ -594,9 +594,9 @@ function App() {
                                 <h3>Full Name</h3>
                                 <p>Designation</p>
                                 <div class="d-flex align-items-center">
-                                    <a class="btn btn-square btn-primary mx-1" href=""><i class="fab fa-facebook-f"></i></a>
-                                    <a class="btn btn-square btn-primary  mx-1" href=""><i class="fab fa-twitter"></i></a>
-                                    <a class="btn btn-square btn-primary  mx-1" href=""><i class="fab fa-instagram"></i></a>
+                                    <a class="btn btn-square btn-primary mx-1" href="#"><i class="fab fa-facebook-f"></i></a>
+                                    <a class="btn btn-square btn-primary  mx-1" href="#"><i class="fab fa-twitter"></i></a>
+                                    <a class="btn btn-square btn-primary  mx-1" href="#"><i class="fab fa-instagram"></i></a>
                                 </div>
                             </div>
                         </div>
@@ -608,9 +608,9 @@ function App() {
                                 <h3>Full Name</h3>
                                 <p>Designation</p>
                                 <div class="d-flex align-items-center">
-                                    <a class="btn btn-square btn-primary mx-1" href=""><i class="fab fa-facebook-f"></i></a>
-                                    <a class="btn btn-square btn-primary  mx-1" href=""><i class="fab fa-twitter"></i></a>
-                                    <a class="btn btn-square btn-primary  mx-1" href=""><i class="fab fa-instagram"></i></a>
+                                    <a class="btn btn-square btn-primary mx-1" href="#"><i class="fab fa-facebook-f"></i></a>
+                                    <a class="btn btn-square btn-primary  mx-1" href="#"><i class="fab fa-twitter"></i></a>
+                                    <a class="btn btn-square btn-primary  mx-1" href="#"><i class="fab fa-instagram"></i></a>
                                 </div>
                             </div>
                         </div>
@@ -693,19 +693,19 @@ function App() {
                         <p class="mb-2"><i class="fa fa-phone-alt me-3"></i>+012 345 67890</p>
                         <p class="mb-2"><i class="fa fa-envelope me-3"></i>info@example.com</p>
                         <div class="d-flex pt-2">
-                            <a class="btn btn-outline-light btn-social" href=""><i class="fab fa-twitter"></i></a>
-                            <a class="btn btn-outline-light btn-social" href=""><i class="fab fa-facebook-f"></i></a>
-                            <a class="btn btn-outline-light btn-social" href=""><i class="fab fa-youtube"></i></a>
-                            <a class="btn btn-outline-light btn-social" href=""><i class="fab fa-linkedin-in"></i></a>
+                            <a class="btn btn-outline-light btn-social" href="#"><i class="fab fa-twitter"></i></a>
+                            <a class="btn btn-outline-light btn-social" href="#"><i class="fab fa-facebook-f"></i></a>
+                            <a class="btn btn-outline-light btn-social" href="#"><i class="fab fa-youtube"></i></a>
+                            <a class="btn btn-outline-light btn-social" href="#"><i class="fab fa-linkedin-in"></i></a>
                         </div>
                     </div>
                     <div class="col-lg-3 col-md-6">
                         <h3 class="text-white mb-4">Quick Links</h3>
-                        <a class="btn btn-link text-white-50" href="">About Us</a>
-                        <a class="btn btn-link text-white-50" href="">Contact Us</a>
-                        <a class="btn btn-link text-white-50" href="">Our Services</a>
-                        <a class="btn btn-link text-white-50" href="">Privacy Policy</a>
-                        <a class="btn btn-link text-white-50" href="">Terms & Condition</a>
+                        <a class="btn btn-link text-white-50" href="#">About Us</a>
+                        <a class="btn btn-link text-white-50" href="#">Contact Us</a>
+                        <a class="btn btn-link text-white-50" href="#">Our Services</a>
+                        <a class="btn btn-link text-white-50" href="#">Privacy Policy</a>
+                        <a class="btn btn-link text-white-50" href="#">Terms & Condition</a>
                     </div>
                     <div class="col-lg-3 col-md-6">
                         <h3 class="text-white mb-4">Photo Gallery</h3>
@@ -751,10 +751,10 @@ function App() {
                         </div>
                         <div class="col-md-6 text-center text-md-end">
                             <div class="footer-menu">
-                                <a href="">Home</a>
-                                <a href="">Cookies</a>
-                                <a href="">Help</a>
-                                <a href="">FQAs</a>
+                                <a href="#">Home</a>
+                                <a href="#">Cookies</a>
+                                <a href="#">Help</a>
+                                <a href="#">FQAs</a>
                             </div>
                         </div>
                     </div>
